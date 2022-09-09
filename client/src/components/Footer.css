@@ -1,0 +1,14 @@
+nav ul {
+  margin-top: auto;
+  list-style: none;
+  text-align: center;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: rgb(240, 240, 240);
+}
+
+a:hover {
+  color: red;
+}
